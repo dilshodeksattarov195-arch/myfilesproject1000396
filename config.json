@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentfrocess",
+        "uuid": 1278684,
+        "checksum": "i0fgs"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
